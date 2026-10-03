@@ -1,7 +1,7 @@
 import requests
 
 # OpenWeather API key used to access live weather data
-api_key = "00319edae93176de343245d4afa5bb2c"
+api_key = insert_your_api_key_here
 
 # Stores successfully searched cities
 search_history = []
